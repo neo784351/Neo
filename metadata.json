@@ -1,0 +1,6 @@
+{
+  "name": "NEO AI",
+  "description": "NEO AI – Your Personal AI Assistant. Ask, Create, and Explore with AI chat, image generation, voice assistance, library, and projects.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
